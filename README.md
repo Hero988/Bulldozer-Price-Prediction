@@ -53,6 +53,3 @@ The dataset used in this project contains historical bulldozer sales data. Ensur
 
 ## Contribution
 Contributions are welcome! Feel free to fork this repository, submit pull requests, or report issues.
-
-## License
-This project is open-source and available under the [MIT License](LICENSE).
