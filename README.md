@@ -33,7 +33,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/bulldozer-price-regression.git
+   git clone https://github.com/your-username/Bulldozer-Price-Prediction.git
    cd bulldozer-price-regression
    ```
 2. **Edit the code to ensure the dataset is correctly loaded.**
